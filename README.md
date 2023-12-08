@@ -30,12 +30,10 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/QuizBuddy.git
-
-## Installation
 
 1. **Move the Project Folder:**
 
@@ -43,8 +41,6 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    mv QuizBuddy C:/xampp/htdocs/
-
-## Installation
 
 1. **Start Servers:**
 
